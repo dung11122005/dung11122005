@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *" # chạy mỗi ngày lúc 0:00 UTC
   workflow_dispatch: # chạy thủ công được
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
