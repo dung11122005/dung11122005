@@ -25,7 +25,7 @@
 - ⚡ Hands-on: **WebSocket (E2EE)**, **Neo4j graph DB**, **Gemini API chatbot**, **MoMo payment**, **Google SSO**
 - 🐳 Real-project experience with **Docker**, **GitHub**, **Postman**
 - 🔬 Scientific research — NLP chatbot deployed on **Facebook Messenger** (team 2)
-- 🎓 **GPA 3.52** · HCMC University of Education · IT 2023–2027 · Encouragement Prize for Research
+- 🎓 **GPA 3.57** · HCMC University of Education · IT 2023–2027 · Encouragement Prize for Research
 
 ---
 
