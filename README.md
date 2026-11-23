@@ -1,14 +1,13 @@
 <div align="center">
   <h1>HOÀNG TẤN DŨNG</h1>
   <p><b>Java Backend Engineer</b> • Scalable Systems & Cloud Architecture</p>
-  <p>
-    <a href="mailto:hoangtandung2k5@gmail.com">
-      <img src="https://shields.io" alt="Email"/>
-    </a>
-    <img src="https://shields.io" alt="Phone"/>
-    <img src="https://shields.io" alt="Location"/>
-  </p>
 </div>
+
+<p align="center">
+  [![Email](https://shields.io)](mailto:hoangtandung2k5@gmail.com)
+  ![Phone](https://shields.io)
+  ![Location](https://shields.io)
+</p>
 
 ---
 
@@ -45,17 +44,19 @@
 
 ### 📊 GitHub Analytics & Activity
 
-<div align="center">
-  <img src="https://vercel.app" height="165" alt="GitHub Stats" />
-  <img src="https://vercel.app" height="165" alt="Top Languages" />
-</div>
+<p align="center">
+  ![Profile Details](https://vercel.app)
+</p>
 
-<div align="center">
-  <img src="https://demolab.com" alt="GitHub Streak" />
-</div>
+<p align="center">
+  ![Repos per Language](https://vercel.app)
+  ![Most Commit Language](https://vercel.app)
+</p>
 
-<br/>
+<p align="center">
+  ![GitHub Streak](https://demolab.com)
+</p>
 
-<div align="center">
-  <img src="https://githubusercontent.com" alt="Contribution Snake" />
-</div>
+<p align="center">
+  ![Contribution Snake](https://githubusercontent.com)
+</p>
