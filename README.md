@@ -38,10 +38,10 @@
 
 | Project | Role & Timeline | Tech Stack | Key Highlights |
 | :--- | :--- | :--- | :--- |
-| **[Search For A Job (JobHunter)](https://github.com)** | Solo Project<br>`10/2024 – 02/2025` | `Spring Boot` · `PostgreSQL` · `Kafka` · `Redis` · `Elasticsearch` · `MongoDB` · `DynamoDB` · `B2/CDN` | - Real-time video recommendation via Kafka and Redis ZSet/Hash.<br>- Multipart chunked upload to Backblaze B2 and FFmpeg HLS streaming.<br>- Transactional Kafka synchronization to Elasticsearch; nested comments on MongoDB. |
+| **[Search For A Job (JobHunter)](https://github.com/dung11122005/JAVA-SPRING-REST)** | Solo Project<br>`10/2024 – 02/2025` | `Spring Boot` · `PostgreSQL` · `Kafka` · `Redis` · `Elasticsearch` · `MongoDB` · `DynamoDB` · `B2/CDN` | - Real-time video recommendation via Kafka and Redis ZSet/Hash.<br>- Multipart chunked upload to Backblaze B2 and FFmpeg HLS streaming.<br>- Transactional Kafka synchronization to Elasticsearch; nested comments on MongoDB. |
 | **ETECHS – Learning Social Network** | Backend Developer<br>`10/2025 – 05/2026` | `Java` · `Spring Boot` · `Neo4j` · `WebSocket` · `Redis` · `Docker` · `Jenkins` | - E2EE real-time messaging and presence tracking with WebSocket/Redis.<br>- Graph-based recommendation engine with Neo4j.<br>- Gemini AI chatbot integrated with Sapo and Google Drive API automation. |
-| **[Online Learning & Exam System](https://github.com)** | Fullstack Developer<br>`07/2025 – 08/2025` | `Spring Boot` · `Thymeleaf` · `MySQL` · `OAuth 2.0` | - Google SSO authentication and MoMo payment gateway integration.<br>- AI-assisted English grading and asynchronous bulk email notifications. |
-| **[Traffic Law NLP Chatbot](https://github.com)** | Scientific Research<br>`10/2024 – 04/2025` | `Node.js` · `Wit.ai` · `Supabase` · `Messenger API` | - Natural Language Processing chatbot deployed on Facebook Messenger.<br>- Recognized in University Scientific Research Awards. |
+| **[Online Learning & Exam System](https://github.com/dung11122005/QUAN_LY_HOC_VA_KT_TRUC_TUYEN)** | Fullstack Developer<br>`07/2025 – 08/2025` | `Spring Boot` · `Thymeleaf` · `MySQL` · `OAuth 2.0` | - Google SSO authentication and MoMo payment gateway integration.<br>- AI-assisted English grading and asynchronous bulk email notifications. |
+| **[Traffic Law NLP Chatbot](https://github.com/dung11122005/CHAT_BOT_NCKH_2024-2025)** | Scientific Research<br>`10/2024 – 04/2025` | `Node.js` · `Wit.ai` · `Supabase` · `Messenger API` | - Natural Language Processing chatbot deployed on Facebook Messenger.<br>- Recognized in University Scientific Research Awards. |
 
 ---
 
@@ -49,20 +49,20 @@
 
 <div align="center">
 
-<img width="100%" src="https://vercel.app" alt="GitHub profile summary" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dung11122005&theme=tokyonight" alt="GitHub profile summary" />
 
 <br/>
 
-<img height="180" src="https://vercel.app" alt="GitHub stats" />
-<img height="180" src="https://vercel.app" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dung11122005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dung11122005&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <br/>
 
-<img width="70%" src="https://demolab.com" alt="GitHub streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=dung11122005&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 
 <br/>
 
-<img width="100%" src="https://githubusercontent.com" alt="GitHub contribution snake" />
+<img width="100%" src="https://raw.githubusercontent.com/dung11122005/dung11122005/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 
 </div>
 
@@ -71,8 +71,5 @@
 <div align="center">
 
 **Thanks for visiting my profile!**
-
-</div>
-
 
 </div>
