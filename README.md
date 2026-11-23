@@ -5,6 +5,10 @@
 ### Java Backend Engineer
 **Scalable Systems & Cloud Architecture**
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,kafka,elasticsearch,aws,docker" alt="Core Technologies" />
+</p>
+
 <a href="mailto:hoangtandung2k5@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
